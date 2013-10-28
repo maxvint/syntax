@@ -76,7 +76,7 @@
 文件头部注释主要用来阐述此文件的名称，版本，作者。按照以下形式书写：
 
 	/*!
-	 * family.css
+	 * common.css
 	 * Version 2013092614
 	 * Designed by @yuwenhui <yuwenhui1986@163.com>
 	 */
@@ -85,4 +85,4 @@
 #### 行内注释
 行内注释主要说明本段代码所在的模块，如：
 
-	/*家谱主页*/
+	/*profile page*/
